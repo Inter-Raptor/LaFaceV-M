@@ -75,6 +75,92 @@
       ],
       "version": "5e30a214-cf47-4f89-b61b-61c2109ba63a",
       "image": "images/33de07fe-3fe2-4f96-bc78-fea04082c102-5e30a214-cf47-4f89-b61b-61c2109ba63a.jpg"
+    },
+    {
+      "id": "734f23bf-a43d-4805-b4cd-e49598e6382b",
+      "artiste": "Stromae",
+      "album": "Racine Carrée",
+      "statut": "collection",
+      "notes": "Acheté sur Amazon le 13/09/2026 — 23,99 €.\nReçu le 15/09/2026.",
+      "disques": [
+        {
+          "numero": 1,
+          "titres": [
+            {
+              "face": "A",
+              "titre": "Ta fête",
+              "duree": "2:57"
+            },
+            {
+              "face": "A",
+              "titre": "Papaoutai",
+              "duree": "3:52"
+            },
+            {
+              "face": "A",
+              "titre": "Bâtard",
+              "duree": "3:29"
+            },
+            {
+              "face": "B",
+              "titre": "Ave Cesaria",
+              "duree": "4:10"
+            },
+            {
+              "face": "B",
+              "titre": "Tous les mêmes",
+              "duree": "3:33"
+            },
+            {
+              "face": "B",
+              "titre": "Formidable",
+              "duree": "3:34"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titres": [
+            {
+              "face": "C",
+              "titre": "Moules frites",
+              "duree": "2:39"
+            },
+            {
+              "face": "C",
+              "titre": "Carmen",
+              "duree": "3:09"
+            },
+            {
+              "face": "C",
+              "titre": "Humain à l’eau",
+              "duree": "3:59"
+            },
+            {
+              "face": "C",
+              "titre": "Quand c’est ?",
+              "duree": "3:01"
+            },
+            {
+              "face": "D",
+              "titre": "Sommeil",
+              "duree": "3:29"
+            },
+            {
+              "face": "D",
+              "titre": "Merci",
+              "duree": "3:54"
+            },
+            {
+              "face": "D",
+              "titre": "AVF",
+              "duree": "3:45"
+            }
+          ]
+        }
+      ],
+      "version": "827a5716-22a5-4dc4-846c-ab5898783001",
+      "image": "images/734f23bf-a43d-4805-b4cd-e49598e6382b-827a5716-22a5-4dc4-846c-ab5898783001.jpg"
     }
   ]
 }
