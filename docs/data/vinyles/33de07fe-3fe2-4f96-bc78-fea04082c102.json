@@ -1,0 +1,76 @@
+{
+  "id": "33de07fe-3fe2-4f96-bc78-fea04082c102",
+  "artiste": "Pierre de Maere",
+  "album": "Regarde-Moi",
+  "statut": "collection",
+  "notes": "Acheté sur Amazon le 13/09/2026 — 21,99 €.\nReçu le 15/09/2026.\nÉdition vinyle avec poster inclus.",
+  "disques": [
+    {
+      "numero": 1,
+      "titres": [
+        {
+          "face": "A",
+          "titre": "Les oiseaux",
+          "duree": "3:02"
+        },
+        {
+          "face": "A",
+          "titre": "Enfant de",
+          "duree": "2:54"
+        },
+        {
+          "face": "A",
+          "titre": "Roméo",
+          "duree": "3:12"
+        },
+        {
+          "face": "A",
+          "titre": "Bel-Ami",
+          "duree": "2:37"
+        },
+        {
+          "face": "A",
+          "titre": "Regarde-moi",
+          "duree": "3:04"
+        },
+        {
+          "face": "A",
+          "titre": "J’aime ta violence",
+          "duree": "2:31"
+        },
+        {
+          "face": "A",
+          "titre": "Les animaux",
+          "duree": "3:28"
+        },
+        {
+          "face": "B",
+          "titre": "Un jour je marierai un ange",
+          "duree": "2:44"
+        },
+        {
+          "face": "B",
+          "titre": "Mercredi",
+          "duree": "2:51"
+        },
+        {
+          "face": "B",
+          "titre": "Ta mère est folle",
+          "duree": "2:34"
+        },
+        {
+          "face": "B",
+          "titre": "Jour -3",
+          "duree": "2:51"
+        },
+        {
+          "face": "B",
+          "titre": "Évidemment",
+          "duree": "2:45"
+        }
+      ]
+    }
+  ],
+  "version": "5e30a214-cf47-4f89-b61b-61c2109ba63a",
+  "image": "images/33de07fe-3fe2-4f96-bc78-fea04082c102-5e30a214-cf47-4f89-b61b-61c2109ba63a.jpg"
+}
