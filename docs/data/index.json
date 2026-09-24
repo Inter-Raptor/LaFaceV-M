@@ -365,102 +365,6 @@
       "image": ""
     },
     {
-      "id": "ee9d3a3f-4745-4287-b3d0-ad52f43fe653",
-      "artiste": "Indochine",
-      "album": "Paradize",
-      "statut": "collection",
-      "notes": "",
-      "disques": [
-        {
-          "numero": 1,
-          "titres": [
-            {
-              "face": "A",
-              "titre": "Paradize",
-              "duree": "4:49"
-            },
-            {
-              "face": "A",
-              "titre": "Electrastar",
-              "duree": "5:30"
-            },
-            {
-              "face": "A",
-              "titre": "Punker",
-              "duree": "2:50"
-            },
-            {
-              "face": "A",
-              "titre": "Mao Boy",
-              "duree": "5:42"
-            },
-            {
-              "face": "B",
-              "titre": "J’ai demandé à la lune",
-              "duree": "3:29"
-            },
-            {
-              "face": "B",
-              "titre": "Dunkerque",
-              "duree": "5:48"
-            },
-            {
-              "face": "B",
-              "titre": "Like a Monster",
-              "duree": "3:56"
-            },
-            {
-              "face": "B",
-              "titre": "Le Grand Secret",
-              "duree": "5:50"
-            }
-          ]
-        },
-        {
-          "numero": 2,
-          "titres": [
-            {
-              "face": "A",
-              "titre": "La Nuit des Fées",
-              "duree": "4:58"
-            },
-            {
-              "face": "A",
-              "titre": "Marilyn",
-              "duree": "5:55"
-            },
-            {
-              "face": "A",
-              "titre": "Le Manoir",
-              "duree": "5:05"
-            },
-            {
-              "face": "B",
-              "titre": "Popstitute",
-              "duree": "4:00"
-            },
-            {
-              "face": "B",
-              "titre": "Dark",
-              "duree": "4:37"
-            },
-            {
-              "face": "B",
-              "titre": "Comateen I",
-              "duree": "6:07"
-            },
-            {
-              "face": "B",
-              "titre": "Un Singe en Hiver",
-              "duree": "3:46"
-            }
-          ]
-        }
-      ],
-      "version": "3d73f787-7332-43ed-bde4-07d7de8792a5",
-      "image": ""
-    },
-    {
       "id": "ba215104-6688-4463-8c4c-a6a6e0df0c80",
       "artiste": "Renaud",
       "album": "Double best of",
@@ -585,6 +489,102 @@
       ],
       "version": "2f08a684-b51d-4fa2-a9eb-af9d8d1c0c67",
       "image": ""
+    },
+    {
+      "id": "ee9d3a3f-4745-4287-b3d0-ad52f43fe653",
+      "artiste": "Indochine",
+      "album": "Paradize",
+      "statut": "collection",
+      "notes": "",
+      "disques": [
+        {
+          "numero": 1,
+          "titres": [
+            {
+              "face": "A",
+              "titre": "Paradize",
+              "duree": "4:49"
+            },
+            {
+              "face": "A",
+              "titre": "Electrastar",
+              "duree": "5:30"
+            },
+            {
+              "face": "A",
+              "titre": "Punker",
+              "duree": "2:50"
+            },
+            {
+              "face": "A",
+              "titre": "Mao Boy",
+              "duree": "5:42"
+            },
+            {
+              "face": "B",
+              "titre": "J’ai demandé à la lune",
+              "duree": "3:29"
+            },
+            {
+              "face": "B",
+              "titre": "Dunkerque",
+              "duree": "5:48"
+            },
+            {
+              "face": "B",
+              "titre": "Like a Monster",
+              "duree": "3:56"
+            },
+            {
+              "face": "B",
+              "titre": "Le Grand Secret",
+              "duree": "5:50"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titres": [
+            {
+              "face": "A",
+              "titre": "La Nuit des Fées",
+              "duree": "4:58"
+            },
+            {
+              "face": "A",
+              "titre": "Marilyn",
+              "duree": "5:55"
+            },
+            {
+              "face": "A",
+              "titre": "Le Manoir",
+              "duree": "5:05"
+            },
+            {
+              "face": "B",
+              "titre": "Popstitute",
+              "duree": "4:00"
+            },
+            {
+              "face": "B",
+              "titre": "Dark",
+              "duree": "4:37"
+            },
+            {
+              "face": "B",
+              "titre": "Comateen I",
+              "duree": "6:07"
+            },
+            {
+              "face": "B",
+              "titre": "Un Singe en Hiver",
+              "duree": "3:46"
+            }
+          ]
+        }
+      ],
+      "version": "c0145ab9-fc2f-4b7a-9d5b-796929f5eb61",
+      "image": "images/ee9d3a3f-4745-4287-b3d0-ad52f43fe653-c0145ab9-fc2f-4b7a-9d5b-796929f5eb61.jpg"
     }
   ]
 }
