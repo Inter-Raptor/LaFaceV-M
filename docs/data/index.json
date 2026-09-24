@@ -585,6 +585,16 @@
       ],
       "version": "471be86b-ae79-451e-9a4d-c7166c9c9488",
       "image": "images/ba215104-6688-4463-8c4c-a6a6e0df0c80-471be86b-ae79-451e-9a4d-c7166c9c9488.jpg"
+    },
+    {
+      "id": "7e79b0f1-329f-42ba-820a-686cadfdd0ef",
+      "artiste": "Jane Birkin",
+      "album": "The Very Best Of",
+      "statut": "recherche",
+      "notes": "",
+      "disques": [],
+      "version": "9f9031cb-d7b3-4a4c-ba78-320be6420bf8",
+      "image": "images/7e79b0f1-329f-42ba-820a-686cadfdd0ef-9f9031cb-d7b3-4a4c-ba78-320be6420bf8.jpg"
     }
   ]
 }
