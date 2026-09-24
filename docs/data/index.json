@@ -161,6 +161,117 @@
       ],
       "version": "827a5716-22a5-4dc4-846c-ab5898783001",
       "image": "images/734f23bf-a43d-4805-b4cd-e49598e6382b-827a5716-22a5-4dc4-846c-ab5898783001.jpg"
+    },
+    {
+      "id": "e23f0eae-2c3d-41fc-bb92-f83b34d4225c",
+      "artiste": "Louise attaque",
+      "album": "Best of",
+      "statut": "collection",
+      "notes": "",
+      "disques": [
+        {
+          "numero": 1,
+          "titres": [
+            {
+              "face": "A",
+              "titre": "J’t’emmène au vent",
+              "duree": "3:05"
+            },
+            {
+              "face": "A",
+              "titre": "Ton invitation",
+              "duree": "2:40"
+            },
+            {
+              "face": "A",
+              "titre": "Les nuits parisiennes",
+              "duree": "2:32"
+            },
+            {
+              "face": "A",
+              "titre": "Léa",
+              "duree": "3:18"
+            },
+            {
+              "face": "A",
+              "titre": "Savoir",
+              "duree": "1:46"
+            },
+            {
+              "face": "B",
+              "titre": "Tes yeux se moquent",
+              "duree": "3:09"
+            },
+            {
+              "face": "B",
+              "titre": "Tu dis rien",
+              "duree": "2:22"
+            },
+            {
+              "face": "B",
+              "titre": "La plume",
+              "duree": "3:56"
+            },
+            {
+              "face": "B",
+              "titre": "L’intranquillité",
+              "duree": "3:48"
+            },
+            {
+              "face": "B",
+              "titre": "Comme on a dit",
+              "duree": "5:29"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titres": [
+            {
+              "face": "A",
+              "titre": "Si l’on marchait jusqu’à demain",
+              "duree": "3:45"
+            },
+            {
+              "face": "A",
+              "titre": "Si c’était hier",
+              "duree": "4:24"
+            },
+            {
+              "face": "A",
+              "titre": "Chaque jour reste le nôtre",
+              "duree": "3:27"
+            },
+            {
+              "face": "A",
+              "titre": "L’insouciance",
+              "duree": "5:17"
+            },
+            {
+              "face": "B",
+              "titre": "Avec le temps",
+              "duree": "3:28"
+            },
+            {
+              "face": "B",
+              "titre": "La frousse",
+              "duree": "4:12"
+            },
+            {
+              "face": "B",
+              "titre": "Sortir de l’ordinaire",
+              "duree": "3:38"
+            },
+            {
+              "face": "B",
+              "titre": "Nous, on veut vivre nous (I Want It All)",
+              "duree": "3:15"
+            }
+          ]
+        }
+      ],
+      "version": "e238fbfc-9f60-4f33-b351-97518e724bdd",
+      "image": ""
     }
   ]
 }
