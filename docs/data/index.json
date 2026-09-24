@@ -163,132 +163,6 @@
       "image": "images/734f23bf-a43d-4805-b4cd-e49598e6382b-827a5716-22a5-4dc4-846c-ab5898783001.jpg"
     },
     {
-      "id": "ba215104-6688-4463-8c4c-a6a6e0df0c80",
-      "artiste": "Renaud",
-      "album": "Double best of",
-      "statut": "collection",
-      "notes": "",
-      "disques": [
-        {
-          "numero": 1,
-          "titres": [
-            {
-              "face": "A",
-              "titre": "Amoureux de Paname",
-              "duree": "2:32"
-            },
-            {
-              "face": "A",
-              "titre": "Hexagone",
-              "duree": "5:30"
-            },
-            {
-              "face": "A",
-              "titre": "Société tu m’auras pas",
-              "duree": "2:30"
-            },
-            {
-              "face": "A",
-              "titre": "Laisse béton",
-              "duree": "2:30"
-            },
-            {
-              "face": "A",
-              "titre": "Je suis une bande de jeunes",
-              "duree": "3:00"
-            },
-            {
-              "face": "A",
-              "titre": "Adieu minette",
-              "duree": "3:46"
-            },
-            {
-              "face": "B",
-              "titre": "La chanson du loubard",
-              "duree": "2:35"
-            },
-            {
-              "face": "B",
-              "titre": "Germaine",
-              "duree": "3:15"
-            },
-            {
-              "face": "B",
-              "titre": "Ma gonzesse",
-              "duree": "3:31"
-            },
-            {
-              "face": "B",
-              "titre": "C’est mon dernier bal",
-              "duree": "4:04"
-            },
-            {
-              "face": "B",
-              "titre": "La tire à Dédé",
-              "duree": "3:42"
-            },
-            {
-              "face": "B",
-              "titre": "Viens chez moi j’habite chez une copine",
-              "duree": "2:45"
-            }
-          ]
-        },
-        {
-          "numero": 2,
-          "titres": [
-            {
-              "face": "A",
-              "titre": "Les aventures de Gérard Lambert",
-              "duree": "3:46"
-            },
-            {
-              "face": "A",
-              "titre": "Marche à l’ombre",
-              "duree": "3:16"
-            },
-            {
-              "face": "A",
-              "titre": "Dans mon H.L.M.",
-              "duree": "6:06"
-            },
-            {
-              "face": "A",
-              "titre": "It Is Not Because You Are",
-              "duree": "3:20"
-            },
-            {
-              "face": "A",
-              "titre": "J’ai raté Télé-Foot",
-              "duree": "3:05"
-            },
-            {
-              "face": "B",
-              "titre": "Le retour de Gérard Lambert",
-              "duree": "4:11"
-            },
-            {
-              "face": "B",
-              "titre": "Mon beauf",
-              "duree": "4:00"
-            },
-            {
-              "face": "B",
-              "titre": "Dès que le vent soufflera",
-              "duree": "4:23"
-            },
-            {
-              "face": "B",
-              "titre": "Morgane de toi",
-              "duree": "6:12"
-            }
-          ]
-        }
-      ],
-      "version": "2f08a684-b51d-4fa2-a9eb-af9d8d1c0c67",
-      "image": ""
-    },
-    {
       "id": "ee9d3a3f-4745-4287-b3d0-ad52f43fe653",
       "artiste": "Indochine",
       "album": "Paradize",
@@ -585,6 +459,132 @@
       ],
       "version": "bd8ae302-43d2-41df-9552-02380e484a0f",
       "image": "images/af78d629-2cf8-4814-a449-8727cc457697-bd8ae302-43d2-41df-9552-02380e484a0f.jpg"
+    },
+    {
+      "id": "ba215104-6688-4463-8c4c-a6a6e0df0c80",
+      "artiste": "Renaud",
+      "album": "Double best of",
+      "statut": "collection",
+      "notes": "",
+      "disques": [
+        {
+          "numero": 1,
+          "titres": [
+            {
+              "face": "A",
+              "titre": "Amoureux de Paname",
+              "duree": "2:32"
+            },
+            {
+              "face": "A",
+              "titre": "Hexagone",
+              "duree": "5:30"
+            },
+            {
+              "face": "A",
+              "titre": "Société tu m’auras pas",
+              "duree": "2:30"
+            },
+            {
+              "face": "A",
+              "titre": "Laisse béton",
+              "duree": "2:30"
+            },
+            {
+              "face": "A",
+              "titre": "Je suis une bande de jeunes",
+              "duree": "3:00"
+            },
+            {
+              "face": "A",
+              "titre": "Adieu minette",
+              "duree": "3:46"
+            },
+            {
+              "face": "B",
+              "titre": "La chanson du loubard",
+              "duree": "2:35"
+            },
+            {
+              "face": "B",
+              "titre": "Germaine",
+              "duree": "3:15"
+            },
+            {
+              "face": "B",
+              "titre": "Ma gonzesse",
+              "duree": "3:31"
+            },
+            {
+              "face": "B",
+              "titre": "C’est mon dernier bal",
+              "duree": "4:04"
+            },
+            {
+              "face": "B",
+              "titre": "La tire à Dédé",
+              "duree": "3:42"
+            },
+            {
+              "face": "B",
+              "titre": "Viens chez moi j’habite chez une copine",
+              "duree": "2:45"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titres": [
+            {
+              "face": "A",
+              "titre": "Les aventures de Gérard Lambert",
+              "duree": "3:46"
+            },
+            {
+              "face": "A",
+              "titre": "Marche à l’ombre",
+              "duree": "3:16"
+            },
+            {
+              "face": "A",
+              "titre": "Dans mon H.L.M.",
+              "duree": "6:06"
+            },
+            {
+              "face": "A",
+              "titre": "It Is Not Because You Are",
+              "duree": "3:20"
+            },
+            {
+              "face": "A",
+              "titre": "J’ai raté Télé-Foot",
+              "duree": "3:05"
+            },
+            {
+              "face": "B",
+              "titre": "Le retour de Gérard Lambert",
+              "duree": "4:11"
+            },
+            {
+              "face": "B",
+              "titre": "Mon beauf",
+              "duree": "4:00"
+            },
+            {
+              "face": "B",
+              "titre": "Dès que le vent soufflera",
+              "duree": "4:23"
+            },
+            {
+              "face": "B",
+              "titre": "Morgane de toi",
+              "duree": "6:12"
+            }
+          ]
+        }
+      ],
+      "version": "471be86b-ae79-451e-9a4d-c7166c9c9488",
+      "image": "images/ba215104-6688-4463-8c4c-a6a6e0df0c80-471be86b-ae79-451e-9a4d-c7166c9c9488.jpg"
     }
   ]
 }
